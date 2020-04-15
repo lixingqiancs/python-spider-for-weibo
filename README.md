@@ -2,7 +2,7 @@
 
 ## usage
 
-''' bash
+'''bash
 cd spider for python
 
 '''
